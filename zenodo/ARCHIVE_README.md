@@ -3,7 +3,7 @@
 Synthetic ground-truth data for benchmarking DIA software (DIA-NN, FragPipe) on
 TimsTOF mixed-proteome plasma, generated with **TimSim**.
 
-- **Code & instructions:** https://github.com/theGreatHerrLebert/PlasmaBENCH
+- **Code & instructions:** https://github.com/MS-Simulation/PlasmaBENCH
   (see `REPRODUCE.md` for the step-by-step reproduction guide)
 - **DOI:** 10.5281/zenodo.20733913
 - **License:** CC-BY-4.0
