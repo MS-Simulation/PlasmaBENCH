@@ -78,7 +78,7 @@ PlasmaBENCH/
 Clone with submodules:
 
 ```bash
-git clone --recurse-submodules git@github.com:theGreatHerrLebert/PlasmaBENCH.git
+git clone --recurse-submodules git@github.com:MS-Simulation/PlasmaBENCH.git
 # or, after a plain clone:
 git submodule update --init --recursive
 ```

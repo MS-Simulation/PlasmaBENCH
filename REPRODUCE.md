@@ -37,7 +37,7 @@ complete:
 ## 1. Get the code
 
 ```bash
-git clone --recurse-submodules https://github.com/theGreatHerrLebert/PlasmaBENCH.git
+git clone --recurse-submodules https://github.com/MS-Simulation/PlasmaBENCH.git
 cd PlasmaBENCH
 # or, if you already cloned without --recurse-submodules:
 make submodules        # = git submodule update --init --recursive
